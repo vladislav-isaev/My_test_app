@@ -35,6 +35,7 @@ class MainActivity : AppCompatActivity() {
                 .setAction("Action", null).show()
         }
         some work
+        some work2
     }
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
